@@ -47,7 +47,7 @@ Ficar atendo ao plano Free Tier para não ter surpresas.
 - Alterar a projeção me mostrar o os 5 próximos dias.
 - Adicionar como base os feriados nacionais no Brasil.
 > A configuração ficou assim:
-![Imgur](https://imgur.com/QXneugO.png)
+![Imgur](https://imgur.com/ZzjGlbd.png)
 
 - Executar o Quick build.
 
