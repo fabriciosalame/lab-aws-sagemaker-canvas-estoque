@@ -68,7 +68,7 @@ Ficar atendo ao plano Free Tier para não ter surpresas.
 - As previsões de estoque ficaram assim.
 - Aqui temos o `Item 1011` onde temos uma demanda histórica e as projeções para os 5 próximos dias em `P10, P50 e P90`
 > Projeção gráfica:
-![Imgur](https://imgur.com/zBllomf.png)
+![Imgur](https://imgur.com/CYzL9pl.png)
 
 > Após algumas modificações na Build obtive novos resultados:
 ![Imgur](https://imgur.com/omV6VL8.png)
