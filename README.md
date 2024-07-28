@@ -59,7 +59,7 @@ Ficar atendo ao plano Free Tier para não ter surpresas.
 - O `RMSE` é a raiz quadrada dos erros quadráticos médios. Um `RMSE` mais baixo indica um modelo mais preciso com `RMSE=0` como um modelo perfeito e sem erros.
 - O `MASE` é a média do erro absoluto da previsão normalizada pelo erro médio absoluto de um método simples de previsão de linha de base. Um valor mais baixo indica um modelo mais preciso com `MASE < 1` como um modelo estimado como melhor que a linha de base e um `MASE > 1` como um modelo estimado como pior que a linha de base.
 > **Resultado do modelo.**
-![Imgur](https://imgur.com/lZ5fZrm.png)
+![Imgur](https://imgur.com/Fgrqcal.png)
 ![Imgur](https://imgur.com/CYzL9pl.png)
 
 
