@@ -29,11 +29,11 @@ Ficar atendo ao plano Free Tier para não ter surpresas.
 - O `datasets` selecionado foi o dataset-1000-com-preco-promocional-e-renovacao-estoque para projeção do projeto de **_Previsão de Estoque Inteligente na AWS com Sagemaker Canvas._**
 - Dentro do SageMaker Canvas crie um domínio e abra o SageMaker Canvas:
 > Importe o `datasets` selecionado;
-![Imgur](https://imgur.com/5ER9cM2)
+![Imgur](https://imgur.com/5ER9cM2.png)
 > Crie um novo modelo de Análise preditiva e dê um novo nome;
-![Imgur](https://imgur.com/Y9oMjiY.png)
+![Imgur](https://imgur.com/mYpVqw2.png)
 > Selecine o `datasets`.
-![Imgur](https://imgur.com/4LPss1L)
+![Imgur](https://imgur.com/4LPss1L.png)
 
 
 ### 2. Construindo e Treinando o modelo
