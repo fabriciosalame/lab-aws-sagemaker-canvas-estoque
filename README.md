@@ -40,14 +40,14 @@ Ficar atendo ao plano Free Tier para não ter surpresas.
 
 - Realizar a configuração do meu modelo apontando como `target` a coluna QUANTIDADE_ESTOQUE.
 > A configuração ficou assim:
-![Imgur](https://imgur.com/zqKZ4oI.png)
+![Imgur](https://imgur.com/ZzjGlbd.png)
 
 - Configurar o modelo selecionando o ID_PRODUTO como `ITEM ID` para identificação de valor único.
 - O indicativo para a coluna que contém `timestamps` ele reconheceuu automáticamente.
 - Alterar a projeção me mostrar o os 5 próximos dias.
 - Adicionar como base os feriados nacionais no Brasil.
 > A configuração ficou assim:
-![Imgur](https://imgur.com/ZzjGlbd.png)
+![Imgur](https://imgur.com/4LPss1L.png)
 
 - Executar o Quick build.
 
