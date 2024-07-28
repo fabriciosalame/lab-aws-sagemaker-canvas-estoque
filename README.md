@@ -31,7 +31,7 @@ Ficar atendo ao plano Free Tier para não ter surpresas.
 > Importe o `datasets` selecionado;
 ![Imgur](https://imgur.com/5ER9cM2.png)
 > Crie um novo modelo de Análise preditiva e dê um novo nome;
-![Imgur](https://imgur.com/mYpVqw2.png)
+![Imgur](https://imgur.com/w1cimWV.png)
 > Selecine o `datasets`.
 ![Imgur](https://imgur.com/4LPss1L.png)
 
@@ -47,7 +47,7 @@ Ficar atendo ao plano Free Tier para não ter surpresas.
 - Alterar a projeção me mostrar o os 5 próximos dias.
 - Adicionar como base os feriados nacionais no Brasil.
 > A configuração ficou assim:
-![Imgur](https://imgur.com/4LPss1L.png)
+![Imgur](https://imgur.com/mYpVqw2.png)
 
 - Executar o Quick build.
 
